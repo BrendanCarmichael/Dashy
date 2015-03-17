@@ -10,7 +10,7 @@
     "lodash": "^2.4.1",
     "moment": "^2.8.3",
     "xero": "0.0.5",
-	"numeral": "^1.5.3"
+	"accounting": "^0.4.1"
   },
   "engine": "node >= 0.10"
 }
